@@ -19,7 +19,6 @@ Este projeto implementa o controle de um **servo motor** e de um **LED** usando 
 - **Wokwi** para simulação
 - Placa Raspberry Pi Pico (na simulação, componente virtual)
 - Servomotor compatível com **PWM** (na simulação, um modelo virtual)
-- LED e resistor de **330Ω** (na simulação, componentes virtuais)
 - **SDK do Raspberry Pi Pico** corretamente configurado (caso seja usado em hardware real)
 
 ### 2️⃣ Clonar este repositório
