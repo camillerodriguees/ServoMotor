@@ -27,10 +27,10 @@ git clone https://github.com/camillerodriguees/ServoMotor.git
 ```
 
 ## 🎯 Como Funciona
-✅ **Servo Motor:** Controlado pelo PWM no **pino 22**.
-✅ **LED:** PWM no **pino 12** com **interrupções** para criar o efeito de fade.
-✅ **Interrupção de PWM:** Atualiza o brilho do LED dinamicamente.
-✅ **Simulado no Wokwi**, sem necessidade de hardware físico.
+- ✅ **Servo Motor:** Controlado pelo PWM no **pino 22**.
+- ✅ **LED:** PWM no **pino 12** com **interrupções** para criar o efeito de fade.
+- ✅ **Interrupção de PWM:** Atualiza o brilho do LED dinamicamente.
+- ✅ **Simulado no Wokwi**, sem necessidade de hardware físico.
 
 ## 📖 Link do vídeo da Explicação
 ```sh
